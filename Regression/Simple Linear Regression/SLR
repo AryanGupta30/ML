@@ -1,1 +1,15 @@
+Intuition
 
+1. Import the  Libraries
+
+2. Import the datasets
+
+3.Split the dataset into test and train sets
+
+4.Training Simple regression model on training set
+
+5.Predicting the test set results
+
+6.Visualising train set results
+
+7.Visualising test set results
