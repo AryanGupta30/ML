@@ -2,4 +2,15 @@ Intuition-
 There is linear relationship between 1 dependent and more than 1 independent variable.
 Add dummy column if there is categorical data instead of numerical data ( remove 1 to prevent dummy variable trap). 
 
+Steps-
+1. Import the  Libraries
 
+2. Import the datasets
+
+3.Encoding Categorical Data
+
+4.Split the dataset into test and train sets
+
+5.Training Simple regression model on training set
+
+6.Predicting the test set results
