@@ -2,6 +2,8 @@ Intuition-
 There is linear relationship between 1 dependent and more than 1 independent variable.
 Add dummy column if there is categorical data instead of numerical data ( remove 1 to prevent dummy variable trap). 
 
+Note - LinearRegression class takes care of dummy variable trap and best features(high P value or high statistical significance).
+
 Steps-
 1. Import the  Libraries
 
