@@ -1,1 +1,4 @@
+Polynomial Linear Regression is said to be linear as the coeefficients are linear(not to consider variables).
+only one feature of variable ( Eg. y = b0 + b1x1 + b2x1^2 + b3x1^3 + ....            instead of  y= b0 + b1x1 + b2x2 + b3x3 + ...) i.e.linear combination of the powered features.
+is a special case of multiple linear regression 
 
