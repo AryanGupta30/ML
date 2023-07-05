@@ -1,1 +1,6 @@
+Intuition - 
+
+SVR use Epsilon Insensitive Tube that is used as a margin of error.
+If a point falls in the tube we disregard errors that fall within it.
+Every point outside the tube is a support vector , dictating the formation of tube.
 
