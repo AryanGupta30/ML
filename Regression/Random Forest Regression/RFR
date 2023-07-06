@@ -1,3 +1,4 @@
+version of ensemble learning(when you take multiple algorithms or same algorithm multiple times and put them together that results in much more powerful version)
 Intuition - 
 
 1.pick k data points from training set.
