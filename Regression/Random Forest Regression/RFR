@@ -1,1 +1,6 @@
+Intuition - 
 
+1.pick k data points from training set.
+2.build decision trees associated with those training set.
+3.choose the number of trees you want to build (repeat steps 1&2).
+4.predict the value of new data point by averaging values of all the predicted values of all trees.
