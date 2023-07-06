@@ -1,1 +1,3 @@
-
+Intuition - 
+divide the data continuosly(form leaves) until you reach terminsl leaf ( form a tree like structure).
+derive the value of dependent variable according to which terminal leaf the data falls into. (value of terminal leaf is the average of all points lying inside the leaf)
