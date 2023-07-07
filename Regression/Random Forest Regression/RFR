@@ -1,7 +1,10 @@
-version of ensemble learning(when you take multiple algorithms or same algorithm multiple times and put them together that results in much more powerful version)
+Version of ensemble learning(when you take multiple algorithms or same algorithm multiple times and put them together that results in much more powerful version).
 Intuition - 
 
-1.pick k data points from training set.
-2.build decision trees associated with those training set.
-3.choose the number of trees you want to build (repeat steps 1&2).
-4.predict the value of new data point by averaging values of all the predicted values of all trees.
+1.Pick k data points from training set.
+
+2.Build decision trees associated with those training set.
+
+3.Choose the number of trees you want to build (repeat steps 1&2).
+
+4.Predict the value of new data point by averaging values of all the predicted values of all trees.
