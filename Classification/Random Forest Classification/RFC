@@ -1,1 +1,9 @@
+Intuition - 
 
+1.Pick k data points from training set.
+
+2.Build decision trees associated with those training set.
+
+3.Choose the number of trees you want to build (repeat steps 1&2).
+
+4.Predict the value of new data point tothe category that wins max votes.
