@@ -1,1 +1,3 @@
-
+Intuition - 
+Divide the dataset into multiple leaves .
+Assign the new datapoint according to the terminal leaf it belongs to.
