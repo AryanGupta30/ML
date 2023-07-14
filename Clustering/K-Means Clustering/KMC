@@ -1,1 +1,10 @@
+Intuition - 
 
+Assign K cetroids int the data set
+change the position of centroids according to the data in the dataset
+contiune this until the position of centrids does not change
+
+number of centroids can be decided by the elbow method
+the number at which elbow occurs in the graph between WCSS(within clusters sum of squares) and number of clusters will be the number of centroids.
+
+random selection of centroids could cause problem.
