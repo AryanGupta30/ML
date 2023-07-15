@@ -16,3 +16,5 @@ distance between centroids
 
 create dendograms (graph between cluster data points and euclidean distance between them) for the data points
 apply a threshold for distance between clusters which will allow us to know about the number of clusters the dataset is divided into.(number of vertical lines the threshold crosses).
+
+to calculate threshold - take the longest vertical line that does not cross vertical line , any horizontal line on that vertical line.
