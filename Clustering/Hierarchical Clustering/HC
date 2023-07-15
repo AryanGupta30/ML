@@ -1,1 +1,14 @@
+Agglomerative HC
 
+Intuition - 
+make each data point as a cluster - N clusters
+take 2 closest data points and make them a cluster - N-1 clusters
+take 2 closest clusters and make them one cluster - N-2 clusters
+repeat previous step until there is only 1 cluster
+
+
+distance between 2 clusters
+closest points
+furthest points
+average distance 
+distance between centroids
